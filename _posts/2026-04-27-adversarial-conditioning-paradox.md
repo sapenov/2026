@@ -12,20 +12,16 @@ htmlwidgets: true
 hidden: false
 categories: adversarial-ml nlp-security
 thumbnail: assets/img/2026-04-27-adversarial-conditioning-paradox/roc_curves_TextFooler.png
-
 authors:
   - name: "Khazretgali Sapenov"
+    url: "https://orcid.org/0009-0000-6397-5807"
     affiliations:
       name: "University of Phoenix"
-    email: khazretgali.sapenov@email.phoenix.edu
-    url: https://orcid.org/0009-0000-6397-5807
 
   - name: "Aidos Sapenov"
+    url: "https://orcid.org/0009-0001-1414-7623"
     affiliations:
       name: "University of Toronto"
-    email: aidos.sapenov@mail.utoronto.ca
-    url: https://orcid.org/0009-0001-1414-7623
-    corresponding: true
 
 bibliography: 2026-04-27-adversarial-conditioning-paradox.bib
 
